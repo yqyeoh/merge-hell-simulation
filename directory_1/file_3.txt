@@ -5,3 +5,11 @@ An algorithm is like finding a name in a phonebook. Algorithms are a step-by-ste
 Learning to code isn’t easy. But that’s why it’s worth doing.
 
 Pair program as much as possible. There is no faster way to learn how to code.
+
+There’s a right way to ask for help. Everybody needs to ask for help at some point. And when you do, make sure that you do these 4 things:
+- Overcommunicate details that you see.
+- Explain exactly what you think should be happening.
+- Explain exactly what is actually happening.
+- Explain why you think it should be working differently.
+- When you go through this process, you’ll often come across a solution without ever asking for help. It makes you think about problems in a holistic way.
+
