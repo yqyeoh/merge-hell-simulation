@@ -4,7 +4,7 @@ You don’t need 5 monitors. Contrary to what Hollywood might tell you, you don�
 
 Programming isn’t like studying for a test. Memorizing stuff doesn’t matter all that much.
 
-Trying to understand everything is a lost cause. In the beginning, I tried to chase down the “why” to every problem I encountered. This isn’t necessary. Computers are so complex and there is so much to learn, and you’re never going to understand everything. That’s ok.
+Letting problems pile up without checking is a poor strategy. I used to make endless changes to my code and expect it to work right away. The problem with this approach is that it stacks one problem on top of another, and it becomes difficult to figure what went wrong.
 
 There’s a BIG difference between a capital letter and a lowercase letter. It took me a while to get used to noticing subtle differences between similar symbols, and it can be pretty frustrating until you get used to it.
 
