@@ -6,4 +6,4 @@ Changing bad code is part of the process. I used to think that every piece of co
 
 You’re going to wake up in the morning thinking about code. And when it happens, it’s really freakin’ cool.
 
-Always celebrate the small wins. Building stuff with code is really cool. I never would have arrived where I’m at if I hadn’t stepped back and admired the awesome things I was building along the way.
+It’s ok to admit what you don’t know. When you land your first programming job, you might be inclined to “fake it till you make it.” Don’t. Nobody expects you to know everything right away.
