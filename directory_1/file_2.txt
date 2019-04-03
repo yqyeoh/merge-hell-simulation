@@ -4,6 +4,6 @@ Avoiding merge conflicts makes you happier. Merge conflicts are annoying. So whe
 
 Changing bad code is part of the process. I used to think that every piece of code I wrote needed to be perfect. But making improvements to your code is normal. You’re not writing a book that can’t be changed once it’s published.
 
-You don’t need to be a math genius. If you’re not a “math person,” that doesn’t mean that you can’t be a programmer.
+You’re going to wake up in the morning thinking about code. And when it happens, it’s really freakin’ cool.
 
 Always celebrate the small wins. Building stuff with code is really cool. I never would have arrived where I’m at if I hadn’t stepped back and admired the awesome things I was building along the way.
