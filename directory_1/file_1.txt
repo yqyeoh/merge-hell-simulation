@@ -3,11 +3,7 @@
 Make the computer think like a human. Too many people have the impression that you need to think like a computer. It’s actually the opposite.
 
 Learning to code isn’t easy. But that’s why it’s worth doing.
+You don’t need 5 monitors. Contrary to what Hollywood might tell you, you don’t need an insane external monitor setup to be a programmer. The computer that you own right now is probably good enough to use to start programming. Don’t waste your money.
+Learning to code isn’t easy. But that’s why it’s worth doing.
 
-Programming isn’t like studying for a test. Memorizing stuff doesn’t matter all that much.
-
-Letting problems pile up without checking is a poor strategy. I used to make endless changes to my code and expect it to work right away. The problem with this approach is that it stacks one problem on top of another, and it becomes difficult to figure what went wrong.
-
-There’s a BIG difference between a capital letter and a lowercase letter. It took me a while to get used to noticing subtle differences between similar symbols, and it can be pretty frustrating until you get used to it.
-
-Changing bad code is part of the process. I used to think that every piece of code I wrote needed to be perfect. But making improvements to your code is normal. You’re not writing a book that can’t be changed once it’s published.
+Learning to code isn’t easy. But that’s why it’s worth doing.
