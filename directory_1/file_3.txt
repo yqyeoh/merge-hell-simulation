@@ -5,3 +5,5 @@ Learning to code isn’t easy. But that’s why it’s worth doing.
 It’s common to give up right before change is about to happen. Learning to code (especially to the point where you can switch careers) is a lot of work. It takes time and a lot of discipline, but it is possible. Too many people make the mistake of doing almost enough work to to get where they want.
 
 It doesn’t take 10,000 hours to be good enough to land a job. In reality, you need to be good enough to know how to self correct and get back on track when problems arise. This takes far less time than 10,000 hours.
+
+Learning to code isn’t easy. But that’s why it’s worth doing.
