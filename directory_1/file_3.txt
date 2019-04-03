@@ -6,10 +6,6 @@ Learning to code isn’t easy. But that’s why it’s worth doing.
 
 It’s common to give up right before change is about to happen. Learning to code (especially to the point where you can switch careers) is a lot of work. It takes time and a lot of discipline, but it is possible. Too many people make the mistake of doing almost enough work to to get where they want.
 
-There’s a right way to ask for help. Everybody needs to ask for help at some point. And when you do, make sure that you do these 4 things:
-- Overcommunicate details that you see.
-- Explain exactly what you think should be happening.
-- Explain exactly what is actually happening.
-- Explain why you think it should be working differently.
-- When you go through this process, you’ll often come across a solution without ever asking for help. It makes you think about problems in a holistic way.
+You learn by doing. The only way to get better at programming is to actually program. Don’t let an analysis paralysis prevent you from ever starting.
+
 
