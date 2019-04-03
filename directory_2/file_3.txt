@@ -6,7 +6,4 @@ You don’t need 5 monitors. Contrary to what Hollywood might tell you, you don�
 There’s a BIG difference between a capital letter and a lowercase letter. It took me a while to get used to noticing subtle differences between similar symbols, and it can be pretty frustrating until you get used to it.
 
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit
-Doloremque architecto quaerat impedit iure debitis, 
-reprehenderit magnam magni mollitia vel nemo repellendus 
-voluptates commodi assumenda corporis aliquid sit cumque vero delectus!
+Trying to understand everything is a lost cause. In the beginning, I tried to chase down the “why” to every problem I encountered. This isn’t necessary. Computers are so complex and there is so much to learn, and you’re never going to understand everything. That’s ok.
