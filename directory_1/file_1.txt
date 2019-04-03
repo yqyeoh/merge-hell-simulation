@@ -7,35 +7,23 @@ You don’t need 5 monitors. Contrary to what Hollywood might tell you, you don�
 Learning to code isn’t easy. But that’s why it’s worth doing.
 
 Learning to code isn’t easy. But that’s why it’s worth doing.
-=======
+
 There’s a BIG difference between a capital letter and a lowercase letter. It took me a while to get used to noticing subtle differences between similar symbols, and it can be pretty frustrating until you get used to it.
->>>>>>> add para to file1
 
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 Programming isn’t like studying for a test. Memorizing stuff doesn’t matter all that much.
-=======
-=======
+
 Let go of your emotions. You’re going to see error messages on your journey to becoming a programmer. When screwing up is such an integral part of the process, you need to be ok with making mistakes in order to grow.
->>>>>>> add new quote to file1
 
-<<<<<<< HEAD
 Letting problems pile up without checking is a poor strategy. I used to make endless changes to my code and expect it to work right away. The problem with this approach is that it stacks one problem on top of another, and it becomes difficult to figure what went wrong.
-=======
 You don’t need to be a math genius. If you’re not a “math person,” that doesn’t mean that you can’t be a programmer.
->>>>>>> add para to file1
->>>>>>> add para to file1
 
-<<<<<<< HEAD
+
 Trying to understand everything is a lost cause. In the beginning, I tried to chase down the “why” to every problem I encountered. This isn’t necessary. Computers are so complex and there is so much to learn, and you’re never going to understand everything. That’s ok.
 There’s a BIG difference between a capital letter and a lowercase letter. It took me a while to get used to noticing subtle differences between similar symbols, and it can be pretty frustrating until you get used to it.
 
 Changing bad code is part of the process. I used to think that every piece of code I wrote needed to be perfect. But making improvements to your code is normal. You’re not writing a book that can’t be changed once it’s published.
-=======
-<<<<<<< HEAD
+
 Trying to understand everything is a lost cause. In the beginning, I tried to chase down the “why” to every problem I encountered. This isn’t necessary. Computers are so complex and there is so much to learn, and you’re never going to understand everything. That’s ok.
-=======
 You learn by doing. The only way to get better at programming is to actually program. Don’t let an analysis paralysis prevent you from ever starting.
->>>>>>> add new quote to file1
->>>>>>> add new quote to file1
->>>>>>> add new quote to file1
+
